@@ -1,10 +1,10 @@
 module.exports = {
   "ALIVE_IMG": "",
-  "FOOT": "©𝐌𝐑 𝐌𝐀𝐍𝐔𝐋 𝐎𝐅𝐂 💚",
+  "FOOT": "Samsam22287",
   "PREFIX": ".",
   "AUTO_READ_STATUS": "true",
   "MODE": "private",
-  "BOT_NUMBER": "23409121442414",
+  "BOT_NUMBER": "2349121442414",
   "OMDB_API_KEY": "76cb7f39",
   "READ_CMD": "false",
   "AUTO_VOICE": "true",
